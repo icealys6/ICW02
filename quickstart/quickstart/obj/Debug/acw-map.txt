@@ -1,0 +1,4 @@
+quickstart.MainActivity, quickstart;md540f4c58964e513a0f91f68fc8b514225.MainActivity
+quickstart.MainActivity, quickstart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md540f4c58964e513a0f91f68fc8b514225.MainActivity
+quickstart.MainActivity;md540f4c58964e513a0f91f68fc8b514225.MainActivity
+quickstart.MainActivity;md540f4c58964e513a0f91f68fc8b514225.MainActivity
